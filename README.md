@@ -1,5 +1,13 @@
 # Rapport NoSQL EPSI
 
+# Membres du groupe
+- Sterenn Languille
+- Noé Filippi
+- Eric Girard
+- Louis Marec
+- Noah Grasland
+- Julien Demogue
+
 ## Choix de modélisation
 
 - Utilisation de MongoDB avec une base `flexishopDB` et une collection unique `produits`.
